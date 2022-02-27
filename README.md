@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Redux and Typescript**
 
-- 👨‍💻 All of my projects are available at [www.agkbg.site](agkbg.site)
+- 👨‍💻 All of my projects are available at [agkbg.site](https://agkbg.site)
 
 - 📫 How to reach me **agnes.kabongo@hotmail.com**
 
